@@ -1,0 +1,8 @@
+# pack-refs with: peeled fully-peeled sorted 
+0bf94a2b9558a1cd13e3a17b34ec2d34037997ba refs/heads/https
+79276a747e526beab96a3c698889ca1c653275c4 refs/heads/laravel-10-com-adminlte
+b8ac8ce1cfefa8cc01551ed80d4fd026ddd919d7 refs/heads/laravel-10-com-php-8.1
+b1e4b6f4f41a817f75b5667072fc265f4bc254bf refs/heads/laravel-8-with-php-7.4
+a03d6539c1910c2cadc5e0a1ca4a3176d19ce8c1 refs/heads/laravel-9-com-php-8
+d56e6f976d374aa858f6bd02f2e51fefdae99b2f refs/heads/main
+b13b76b4c64c62efcf431ee6a0c5ae3066ae1184 refs/heads/production
